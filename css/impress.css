@@ -42,7 +42,8 @@ body {
     line-height: 1;
 }
 ol, ul {
-    list-style: none;
+    /*list-style: none;*/
+    padding: 30;
 }
 blockquote, q {
     quotes: none;
